@@ -8,3 +8,13 @@ Implemented in Python:
 - UCS (Uniform Cost Search)
 
 Run: `python Uninformed_Search
+
+#Author
+MOHAMMAD ASADUR RAHMAN ASIF
+
+Academic Information	Details
+Student ID	242031059
+Project	AI Uninformed Search Algorithms
+Subject Area	Artificial Intelligence
+Assignment Topic	Problem Solving by Search — Uninformed Search
+Built as an academic implementation of fundamental AI search techniques.
