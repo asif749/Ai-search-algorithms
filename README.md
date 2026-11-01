@@ -7,4 +7,4 @@ Implemented in Python:
 - IDDFS (Iterative Deepening DFS)
 - UCS (Uniform Cost Search)
 
-Run: `python search_algorithms
+Run: `python Uninformed_Search
