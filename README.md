@@ -9,12 +9,20 @@ Implemented in Python:
 
 Run: `python Uninformed_Search
 
-#Author
-MOHAMMAD ASADUR RAHMAN ASIF
+## 🔗 Author
 
-Academic Information	Details
-Student ID	242031059
-Project	AI Uninformed Search Algorithms
-Subject Area	Artificial Intelligence
-Assignment Topic	Problem Solving by Search — Uninformed Search
-Built as an academic implementation of fundamental AI search techniques.
+**MOHAMMAD ASADUR RAHMAN ASIF**
+
+| Academic Information | Details |
+| :--- | :--- |
+| Student ID | `242031059` |
+| Project | AI Search Algorithms |
+| Subject Area | Artificial Intelligence |
+| Assignment Topic | Problem Solving by Search — Uninformed Search |
+
+<div align="center">
+  <br>
+  <b>Built as an academic implementation of fundamental AI search techniques.</b>
+</div>
+
+---
